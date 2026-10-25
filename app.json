@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Migraine Log",
+    "slug": "migraine-log",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "migrainelog",
+    "ios": {
+      "bundleIdentifier": "dev.samuncached.migrainelog",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "dev.samuncached.migrainelog"
+    },
+    "plugins": ["expo-router", "expo-sqlite"]
+  }
+}
