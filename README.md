@@ -91,7 +91,7 @@ Tracking migraines is only useful if it's effortless in the worst moment. Buildi
 I'm Sam, a software developer on Maui focused on solutions and implementation engineering.
 
 - Portfolio: [smjoslin95.github.io](https://smjoslin95.github.io)
-- LinkedIn: [linkedin.com/in/samanthajoslin95](https://linkedin.com/in/samanthajoslin95)
+- LinkedIn: [linkedin.com/in/samantha-joslin95](https://www.linkedin.com/in/samantha-joslin95/)
 - GitHub: [@Smjoslin95](https://github.com/Smjoslin95)
 
 ---
