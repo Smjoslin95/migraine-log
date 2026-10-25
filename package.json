@@ -14,11 +14,11 @@
   },
   "dependencies": {
     "expo": "latest",
+    "expo-haptics": "latest",
     "expo-router": "latest",
     "expo-sqlite": "latest",
-    "expo-haptics": "latest",
     "expo-status-bar": "latest",
-    "react": "latest",
+    "react": "19.3.0",
     "react-native": "latest"
   },
   "devDependencies": {
